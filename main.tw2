@@ -1,0 +1,43 @@
+::StoryTitle
+Bad End Simulator
+
+::Configuration [twee2]
+Twee2::build_config.story_ifid = 'ee17885e-4b39-4f12-a280-1ddc940c12ad'
+Twee2::build_config.story_format = 'SugarCube2'
+
+::StoryIncludes
+script.tw2
+door1.tw2
+door2.tw2
+door3.tw2
+door4.tw2
+door5.tw2
+accept_garments.tw2
+
+::KeybindLinks [script]
+(() => {
+	$(document).on('keyup', (ev) => {
+    if (['1', '2', '3', '4', '5'].includes(ev.key)) {
+      const key = ev.key - '1';
+      const a_tags = $('.passage').find('a');
+      if (key < a_tags.length) {
+        a_tags[key].click();
+      }
+    } else if (ev.key === ',') {
+      $('#history-backward').click();
+    } else if (ev.key === '.') {
+      $('#history-forward').click();
+    }
+	});
+})();
+
+::Style [stylesheet]
+br {
+  margin: 1em;
+  display: block;
+  font-size: 100%;
+}
+
+::StoryCaption
+You are Arcanis,
+a young male catboy thief.
