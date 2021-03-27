@@ -39,5 +39,5 @@ br {
 }
 
 ::StoryCaption
-You are Arcanis,
-a young male catboy thief.
+You are $name,
+$description

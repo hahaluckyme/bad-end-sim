@@ -1,5 +1,8 @@
 ::Start
-What reason would there be to struggle when one could simply cast a magic spell to make life’s hardships disappear? Teleportation circles to visit exotic lands, wishing stones to aid in finding true love... these are but a few of the wonders that the mystical arts can do, but even a simple commoner's life can be greatly eased with the right spell. This unbreakable logic for you has been the northern star of your life, guiding you when you had nothing else in your future. Lucky students who spend countless hours studying and perfecting their craft in a prestigious academy, only to leave and do amazing things with their lives. But you are not one of those fortunate few.
+<<silently>>
+  <<set $name = "Arcanis">>
+  <<set $description = "a young catboy thief">>
+<</silently>>What reason would there be to struggle when one could simply cast a magic spell to make life’s hardships disappear? Teleportation circles to visit exotic lands, wishing stones to aid in finding true love... these are but a few of the wonders that the mystical arts can do, but even a simple commoner's life can be greatly eased with the right spell. This unbreakable logic for you has been the northern star of your life, guiding you when you had nothing else in your future. Lucky students who spend countless hours studying and perfecting their craft in a prestigious academy, only to leave and do amazing things with their lives. But you are not one of those fortunate few.
 
 Now, as you ebb and weave your way through the Weirmere marketplace, you scan the crowd with your keen eyes, searching for a heavy pocket to pick from an unsuspecting member of the packed, shoulder-to-shoulder throng. Almost like second nature, your thoughts drift as you expertly size up each possible target.
 
@@ -207,7 +210,7 @@ Before you know it, you’re back out in the alleyway, and still wearing a dress
 
 You don’t waste any time. You nervously leave the alley and find yourself back in the bustling Weirmere marketplace street. Thankfully, your fur is covering your deeply red face.
 
-“A damned cat stole my money!” you hear that purple-dressed old nobleman from before say to a guard. The old man looks right at you, staring intently, and you wonder if he might recognize you, but he quickly glances away as he continues to complain to the guard.
+“A damned cat stole my money!” you hear that purple-dressed old nobleman from before say to a guard. The old man looks right at you, staring intently, and you wonder if he might recognise you, but he quickly glances away as he continues to complain to the guard.
 
 You go up to a stall where cheap dresses are on sale. A young woman looks at you and smiles.
 
@@ -406,7 +409,7 @@ You’ve chosen the right time of day. It’s pin-drop quiet as you reach the gr
 
 You listen with your keen Cat ears for any sound that might hint at the presence of a member of tower staff, or one of the Hunters guards. There’s footsteps far away down the corridor of the kitchen outside, but not so close that you need to worry about it. This //is// going to be a job with close calls, but you’re prepared and ready for this. Before you rise up into the kitchen, you let yourself ruminate on the reason //why //you’re risking your life like this.
 
-//A hundred gold coins.// That’s serious money that could make your daydreams actually  realisticbecome reality. It’s more than a //year’s// worth of expenses, maybe two. You might even be able to see if you could go to school with that, stop the criminal life, find a real job, or maybe even find an apprentice guild of magic of some kind that will accept a Cat like you? For so long, dream like these have been your guiding path during dark times, but with a job like this, your nightly thoughts have an entirely different and exciting atmosphere to them.
+//A hundred gold coins.// That’s serious money that could make your daydreams actually become reality. It’s more than a //year’s// worth of expenses, maybe two. You might even be able to see if you could go to school with that, stop the criminal life, find a real job, or maybe even find an apprentice guild of magic of some kind that will accept a Cat like you? For so long, dream like these have been your guiding path during dark times, but with a job like this, your nightly thoughts have an entirely different and exciting atmosphere to them.
 
 [[Sneak through the sewers|Arrive]]
 
@@ -442,6 +445,9 @@ You look down to see if there is a Delilah stone embedded to the foot of this st
 
 You think on this as you continue your search. Finally you find what you are looking for: a large red amulet connected by a metal thread. It’s not on show like some of the grander objects dominating the middle portions of the room; instead the amulet is tucked away on a bottom shelf. You wonder if the owner of the amulet would even miss it being gone given the lowly place they have given it in their collection of great magical items.
 
+[[Take amulet]]
+::Take amulet
+
 You reach out and take hold of the amulet. About the size of your closed fist, the amulet feels quite heavy for its size as you pick it up and put the metal chain round your neck.
 
 In the next instant you hear the sound of stone grinding against stone to your left. When you look to the source of the sound you can see the window you planned to escape from is ceiling up! It happens so quickly by the time you reach the place where the window should be, there is only more stone wall. You press your hands against the stone, feeling its firmness. It’s not some kind of magical illusion as far as you can tell; by some magic the tower has sealed your easy exit!
@@ -458,9 +464,14 @@ With no means to turn back, you can only hope one or more of these doors will le
 
 It is as you are contemplating which door you’ll pick first that you feel a sudden electricity flood in and over your body. You let out a gasp as you look down and see the amulet around your neck is glowing bright red!
 
-There is nothing you can to stop the amulet from what it is now doing to your body. The first of the changes starts in your hips and waist. Your hips make a sudden creaking noise as they expand outward bit by bit. You put your hands to your hips feeling the firm new width resist your touch solidly. As you stand partially bent over with your hands at your hips, you feel your hips creak wider even more, until you undoubtedly have hips that would be considered generous on a woman. That same firm touch, like an invisible hand, can be felt against around your waist line; with a sudden hard crack you feel your waistline sink in, becoming narrower and bringing an even greater feminine shape out of your changing body.
+[[Look at yourself]]
 
- Whilst it doesn’t hurt, it’s not gentle or comfortable either. You feel the invisible hand at your back push down hard, and the next think you now your posture has changed to a feminine gait. It feels like your torso and upper body is resting on your generous hips now, where before your body was streamlined to the masculine leanness you’ve known all your life. You attempt to take off the amulet to undo, or at the very least limit the change taking hold of you. But by some magic the amulet feels far too heavy to lift, and even if you could the chain around your neck shrinks as you tug it, making it impossible to take off in this moment.
+::Look at yourself
+<<silently>>
+  <<set $description = "a young catgirl thief">>
+<</silently>>There is nothing you can to stop the amulet from what it is now doing to your body. The first of the changes starts in your hips and waist. Your hips make a sudden creaking noise as they expand outward bit by bit. You put your hands to your hips feeling the firm new width resist your touch solidly. As you stand partially bent over with your hands at your hips, you feel your hips creak wider even more, until you undoubtedly have hips that would be considered generous on a woman. That same firm touch, like an invisible hand, can be felt against around your waist line; with a sudden hard crack you feel your waistline sink in, becoming narrower and bringing an even greater feminine shape out of your changing body.
+
+Whilst it doesn’t hurt, it’s not gentle or comfortable either. You feel the invisible hand at your back push down hard, and the next think you now your posture has changed to a feminine gait. It feels like your torso and upper body is resting on your generous hips now, where before your body was streamlined to the masculine leanness you’ve known all your life. You attempt to take off the amulet to undo, or at the very least limit the change taking hold of you. But by some magic the amulet feels far too heavy to lift, and even if you could the chain around your neck shrinks as you tug it, making it impossible to take off in this moment.
 
 It feels like someone has slapped your right buttcheek as you let out a gasp. In the next instant your right buttcheek swells in size, filling up with fatty feminine tissue. A moment later, you feel another sting, this time on your left buttcheek, which in turn swells to match the shapely roundedness of the other. You let go of the amulet and grope your fuller and fatter behind; your new behind yields to your touch, being as full and fat as you have seen on some catgirls you have seen from time to time.
 
@@ -598,10 +609,10 @@ The pain in the small of your back is threatening to make you stop running.
 
 You won’t. You can’t. You think back to all the hard work you put in trying to figure out your way into the tower, your way out, and what, if things didn’t go according to plan, you would do. The plan as you remember it was to run to the Beedle District.
 
+The Beedle District is known as the number one sex tourist destination in the capital. Though you’ve never frequented the establishments yourself, many of your former clients have come from the district, and it's not unusual to see many catfolk around.
+
 [[Enter the Beedle District|Beedle District]]
 ::Beedle District
-The Beedle District is known as the number one sex tourist destination in the capital. Though you’ve never frequented the establishments yourself, many of your former clients have come from the district.
-
 You move amongst the bustle of people surveying the many crammed stalls and buildings. There is a myriad of strange perfumes in the air, and already you can see the scantily clad men and women of various brothels standing at the windows, and around the doorways hoping to entice customers.
 
 “Stop! Thief!”
@@ -616,9 +627,9 @@ And the only place that would use Katnip perfume is a Cat-brothel.
 
 Ever since you were a child you’ve hated knowing such places exist. It seemed every other Cat you know works or has worked in a brothel at one time. Right now you decide your life is more important than your disdain for your kind being used in a brothel.
 
-You follow the incredibly enticing scent. After two rights you find yourself before a small building with a cute Catgirl stood outside.
+You can't help but follow the incredibly enticing scent. After two rights you find yourself before a small building with a cute Catgirl stood outside.
 
-It’s then you realise you recognise this Catgirl!
+It’s then that you realise you recognise this Catgirl!
 
 Her fur is snow white save for pink stripes. She’s the Catgirl from the Crowned Badger!
 

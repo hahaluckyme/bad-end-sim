@@ -27,6 +27,9 @@ The guards cuff your hands and feet with heavy iron shackles. They then lift you
 
 You’re taken to a small prison cell and locked inside. You’re alone, with nothing in the cell with you except a bed of straw to lay on. A guard sits outside the cell and has the key on a chain around his neck. Even if you weren’t shackled, and behind the cell bars, you doubt you would be able to take the key from a full grown human male like him.
 
+[[Wait for someone]]
+
+::Wait for someone
 Hours pass and all you have to occupy your time with are the strange new sensations which come with your newly female body. You don’t want to take notice of your new breasts rising and falling on your chest as you breathe, but you do. You don’t want to take notice of your thighs pressing together, and the absence of your cock and balls, but you do. You don’t want to notice the guard looking at you, clearly thinking of ways he could fuck you into submission, be you do.
 
 It feels close to midnight, though you can’t be sure, when a guard arrives outside the cell. He opens the cell door, and leads you through the tower on the ground floor. After going down to long hallways, you and the guard with a hand at your arm approach a set of large red double doors. He pushes the door open, and you both enter inside. You’re taken aback by the space you’re now in: a vast low-ceiling chamber. The walls and ceiling appear to be made of an unusual black glass-like substance. Ahead you can see a large throne, and sitting in it a woman who is by far the tallest woman you have ever seen.
@@ -99,7 +102,12 @@ Your body begins to feel hot, particularly down in your crotch. You’ve never f
 
 “Enough.” Says Sedina, and your hands are freed from massaging your newly fat tits. “Go with the guards and do as you’re told.”
 
-You rise to your feet and follow the guards which lead the way out of Sedina’s chamber. If having tits before was new and strange to you, the pair you now have are a constant new distraction, the hefty tit-flesh jostling with every step you take.
+[[Reluctantly follow the guards]]
+
+::Reluctantly follow the guards
+<<silently>>
+  <<set $description = "a young catgirl maid">>
+<</silently>>You rise to your feet and follow the guards which lead the way out of Sedina’s chamber. If having tits before was new and strange to you, the pair you now have are a constant new distraction, the hefty tit-flesh jostling with every step you take.
 
 “Can I please have some clothes?” You ask the guard walking beside you.
 
@@ -149,6 +157,9 @@ They take immediate notice of the both of you.
 
 “Let’s put a pause on this game and get back to it after lunch, boys.” says Gunther. The other guards concur, and put their cards down for later. You spot the copper coins they’re using for bets in the middle of the table which wouldn’t be enough for more than a single loaf of bread at a typical market stall.
 
+[[Serve their meals]]
+
+::Serve their meals
 You help Dayla with serving the meals to the men; and the men, like you did earlier, eat greedily, slurping at the meat stew the cook prepared. There isn’t much you can do except wait off to the side of the room. As the men eat however there is no denying all have taken notice of you; each man’s gaze lingers on your fat tits, and the skimpy maid outfit you’re wearing.
 
 “What’s your name, girl?” says Gunther, having finished his meal. The other men are close to finishing theirs.
@@ -157,7 +168,7 @@ You help Dayla with serving the meals to the men; and the men, like you did earl
 
 “That’s a boy’s name, ain’t it?” says Gunther.
 
-You give a slow nod.
+You give a hesitant, slow nod.
 
 “What do you have a boy’s name for?” says Gunther.
 
@@ -191,9 +202,14 @@ Your eyes widen. You didn’t know that part.
 
 “Oh ho!” says Gunther, “I like you. You’re lively. But I think you need an attitude adjustment. From now on, whenever you’re in my company you’re going to behave like a happy-go-lucky slut, a true girly-girl whore.”
 
-“No!” You say, feeling instinctual revulsion. However the guards laugh because they can see your eyes fluttering, and your jaw tightening as you try to resist the compulsion to behave just as the guard described.
+“No!” You say again, feeling instinctual revulsion. However the guards laugh because they can see your eyes fluttering, and your jaw tightening as you try to resist the compulsion to behave just as the guard described.
 
-Behave like a girly-girl whore, says the voice in your head. It’s your voice. It feels like you’re having an internal dialogue with yourself. Your true self, your true thoughts, now feel like the outside influence trying to creep in. The real you feels increasingly like the fake outsider trying to manipulate your actions.
+[[Struggle]]
+
+::Struggle
+<<silently>>
+  <<set $description = "a young catgirl slut">>
+<</silently>>Behave like a girly-girl whore, says the voice in your head. It’s your voice. It feels like you’re having an internal dialogue with yourself. Your true self, your true thoughts, now feel like the outside influence trying to creep in. The real you feels increasingly like the fake outsider trying to manipulate your actions.
 
 “I love watching them struggle.” says Gunther.
 
@@ -251,7 +267,12 @@ The first guard after Gunther unbuttons his trousers and pulls out his cock. Thi
 
 “Come on.” says the new guard, “You can act more like a slut than this. You need to be the biggest slut you can be.”
 
-This command scares you, because what follows is a weight in your mind that presses down so hard it almost makes you go cross-eyed. What identity you have; that of Arcanis, the Catboy thief, is diminished and shoved away to the back of your mind. The slut that replaces him rises to the fore of your mind, becoming the new you, as if she were merely lying in wait this whole time. Now you’re more than just obeying commands, you’re actively being the slut they want you to be for their amusement.
+[[Obey]]
+::Obey
+<<silently>>
+  <<set $name = "==Arcanis== ''Kitty''">>
+  <<set $description = "the //best// catgirl slut!">>
+<</silently>>This command scares you, because what follows is a weight in your mind that presses down so hard it almost makes you go cross-eyed. What identity you have; that of Arcanis, the Catboy thief, is diminished and shoved away to the back of your mind. The slut that replaces him rises to the fore of your mind, becoming the new you, as if she were merely lying in wait this whole time. Now you’re more than just obeying commands, you’re actively being the slut they want you to be for their amusement.
 
 “Okay!” you say in a high pitched sing-song tone, after taking his cock from your mouth. You decide that a real slut would use more than just her mouth to please these men.
 
@@ -275,15 +296,18 @@ The guards laugh. Gunther give a broad checkerboard toothed smile. “Very funny
 
 You feel your stomach tighten. This isn’t good. You’re caked in cum and they’ve only just started?!
 
+[[More]]
+::More
+
 “Alright who wants to go first?” says Gunther.
 
-The guards mutter among themselves. Finally, the fattest of the guards, barely fitting inside his leather armour, is decided to be the one to go first. The fat guard breathes heavily, already sweating from cumming on your before.
+The guards mutter among themselves. Finally, the largest of the guards, barely fitting inside his leather armour, is decided to be the one to go first. The fat guard breathes heavily, already sweating from cumming on you before.
 
 “Pog’s eager today.” says one of the guards.
 
 “There’s something about this slut being a boy before that makes it way hotter.” Says Pog,
 
-“Look at those fat tits. Look at that dumb cross-eyed face. Seeing a guy so utterly defeated like this…unf…yeah that’s what Pog likes.”
+“Look at those fat tits. Look at that dumb cross-eyed face. Seeing her so pathetic and so utterly defeated like this…unf…yeah that’s what Pog likes.”
 
 If the collar weren’t magically making you submissive you would leap onto Pog and claw his eyes out. Instead you stand before the obese guard with a happy-go-lucky smile on your cum-coated face.
 
@@ -309,7 +333,7 @@ Pog notices the wetness down there, but doesn’t say anything. Instead his blot
 
 “OH!” the other guards yell like children play fighting. They mock-pretend to shield their eyes.
 
-It occurs to you now that you had a secret suspicion that Pog, despite his overweight size, would have a comically small penis. The opposite is true however. Seemingly in defiance of the huge gut above it, Pog’s cock is downright huge. It is a big meaty member that you struggle to believe hasn’t been enlarged by magic.
+It occurs to you now that you had a secret suspicion that Pog, despite his large size, would have a comically small penis. The opposite is true however. Seemingly in defiance of the huge gut above it, Pog’s cock is downright huge. It is a big meaty member that you struggle to believe hasn’t been enlarged by magic.
 
 You want to tell him to stop. To wait. To do anything except stick that huge thing into your pussy. Just by judging the size of his cock alone there’s no way it can fit into your tight pussy.
 
@@ -323,11 +347,11 @@ A moan escapes you lips, it would be a scream of both pain and pleasure if you w
 
 “Damn I think she’s a virgin.” says one of the guards.
 
-“Of course she’s a virgin, idiot.” Says Gunther, “She used to be a boy, remember? That pussy must be tighter than a debt collector’s coin purse.”
+“Of course she’s a virgin, idiot.” Says Gunther, “She used to be a boy, that pussy must be tighter than a debt collector’s coin purse.”
 
 Looking down Pog brings his cock fully into you. Your stomach is bulging now, the mass of his cock clearly pressing upward inside your stomach. Your legs spread out, your toes flexing, you look up at the ceiling from the intense feeling of both pain and fullness gripping your entire body.
 
-“Boys you gotta feel this.” Says Pog, “Never felt a pussy this tight.”
+“Boys you gotta try this.” Says Pog, “Never felt a pussy this tight.”
 
 Pog thrusts his cock back and forth, stretching out your tight pussy.
 
@@ -355,11 +379,10 @@ You’re panting, your fur damp from the sweat that has broken out across your b
 
 Gunther, Pog, and the other guards laugh at this question.
 
-“You really are new.” Says Gunther. “We ain’t no regular men. We work for Sedina. You think we’d be finished after cumming on your face and pussy? Inside this tower we’re made much more virile. Haven’t you notice the size of our cum loads? When men are in the tower we can cum, and cum, and cum without end. You think Sedina’s going to let a little thing like fatigue get in the way of a good fuck? We’re not going to stop fucking you until you’re as glazed like icing on a cake.”
+“You really are new.” Says Gunther. “We ain’t no regular men. We work for Sedina. You think we’d be finished after cumming on your face and pussy? Inside this tower we’re made much more virile. Haven’t you notice the size of our cum loads? When men are in the tower we can cum, and cum, and cum without end. You think Sedina’s going to let a little thing like fatigue get in the way of a good fuck? We’re not going to stop fucking you until you’re as glazed as a cake. Now lay down, slut.” Says Gunther.
 
-Maybe Gunther should have been a poet and not a guard. You would have remarked this if not for the collar’s influence keeping you submissive.
-
-“Lay down, slut.” Says Gunther.
+[[Obey...]]
+::Obey...
 
 You do as you’re told.
 
@@ -393,23 +416,33 @@ You ease yourself upright as Dayla sets to work cleaning the cum stains on the t
 
 You meet Gunther’s gaze, still having the girly-girl slut look of constant wonder on your face. Oh how you wish you could scowl at him right now. Fantasies of beating each man to a pulp fill your mind, exciting you. You take in several deep breaths, the amulet feeling hard and cool between your cum lathered tits.
 
-“Go clean yourself up you dirty slut.” Says one of the guards.
+“Alright, go clean yourself up you dirty slut.” Says one of the guards.
 
-“Okay!” you say, and you get up and go to an adjacent washroom that guards use to wash themselves on occasion between shifts. You take your cum-caked maid outfit off, and you find something quite unusual about the washroom; pipes attached to the walls. It takes you a minute to figure out how to use the pipes the way they are intended. By some strange magic hot steamy water erupts from the pipes, and looking down the water goes into a little drain by your feet. Never have you seen such a clever invention; cold water pipes, sure. But never hot water from a pipe like this. You find that you can tolerate the heat much better as a Catgirl than you could a Catboy. You stay under the hot pipe water for several minutes, getting all the clumps of cum out of your fur. When you’re done you turn the pipes off by turning a little red wheel, and then you shake your fur to get the worst of the water off you.
+“Okay!” you say, and you get up and go to an adjacent washroom that guards use to wash themselves on occasion between shifts.
 
-You’re thankful nobody is watching you at this moment, because your fur puffs up as it tends to do after you wash it, giving you a slightly kitten-ish look. Once dry, you have little option but to put the cum-stained maid outfit back on. You do your best to scrub it, but by this time Dayla is waiting for you to come out.
+[[Clean yourself]]
+::Clean yourself
+<<silently>>
+  <<set $name = "Arcanis">>
+  <<set $description = "a young catgirl maid">>
+<</silently>>You take your cum-caked maid outfit off, and you find something quite unusual about the washroom; pipes attached to the walls. It takes you a minute to figure out how to use the pipes the way they are intended. By some strange magic hot steamy water erupts from the pipes, and looking down the water goes into a little drain by your feet. Never have you seen such a clever invention; cold water pipes, sure. But never hot water from a pipe like this.
 
-“You took too long.” says Dayla as you take the trolley laden with dirty plates and bowls out of the guard’s break room. Together you make your way back to the kitchen. Whilst it wasn’t exhausting being used by the guards as their cum-rag, you don’t want to experience anything like that again. To your relief it seems your work day is over, and Gunther’s demand that you act like a girly-girl slut seems to have worn off now you’re no longer in his presence. Dayla leads you and the other maids to the maid living quarters, which is little more than a tiny room with bunk beds. You are given a bottom bunk by the door. Before you can rest you’re told to go wash your uniform in the adjacent washroom.
+You also find that you can tolerate the heat much better as a Catgirl than you could a Catboy. You stay under the hot pipe water for several minutes, eager to finally be getting all the clumps of cum out of your fur. When you’re done you turn the pipes off by turning a little red wheel, and then you shake your fur to get the worst of the water off you.
 
-Come late evening you’re sat on the bunk bed resting. The other maids talk quietly among themselves. They’re noticeably more at ease now. You’re not sure whether it is a good thing that they’re not paying you much attention. You lay back in bed, again taking notice of your huge tits that are a constant distraction encumbering you. Given how tiring the day was it doesn’t take long for you to drift off to sleep.
+You’re thankful nobody is watching you at this moment, because your fur puffs up as it tends to do after you wash it, giving you a slightly kitten-ish look. Once dry, you have little option but to put the same cum-stained maid outfit back on. You do your best to scrub it, but by this time Dayla is waiting for you to come out.
 
-*
+“You took too long.” says Dayla as you take the trolley laden with dirty plates and bowls out of the guard’s break room. Together you make your way back to the kitchen. Whilst it wasn’t exhausting being used by the guards as their cum-rag, you don’t want to experience anything like that again. To your relief it seems your work day is over, and Gunther’s demand that you act like a girly-girl slut seems to have worn off now you’re no longer in his presence. Dayla leads you and the other maids to the maid living quarters, which is little more than a tiny room with bunk beds. You are given a bottom bunk by the door. Before you can rest you’re told to go wash your uniform properly in the adjacent washroom.
 
-Two weeks pass. Each day is the same, but a little different. Each morning you help prepare breakfast in the kitchen, then you leave with one of the maids to deliver the food. Every single time you return with the taste of cum on your mouth, and a new chore of washing your uniform later in the evening. You’ve gotten used to not having any control over your actions; having huge tits is a constant annoyance, but they’ve also started to feel like your tits. The guards no longer have to tell you to behave like a girly-girl slut in their company, instead as soon as you walk into their break room you actively play the part with frightening ease.
+Come late evening, you’re sat on the bunk bed resting. The other maids talk quietly among themselves. They’re noticeably more at ease now. You’re not sure whether it is a good thing that they’re not paying you much attention. You lay back in bed, again taking notice of your huge tits that are a constant distraction encumbering you. Given how tiring the day was it doesn’t take long for you to drift off to sleep.
 
-Its two weeks to the day of your failed attempt at stealing the amulet from the tower. You’re now resting in bed when a guard arrives at the door and enters.
+[[Time passes...]]
 
-“Come with me, Cat.” Says the guard, ‘Cat’ being the name everyone calls you by now. You do as you’re told. You get up and leave the room with the guard, and he leads the way across the tower. This isn’t an unusual occurrence, since you’re used to being taken in the late hours of the night and sent to a guard’s sleeping quarters to be used and fucked and then dismissed. You haven’t however had your virginity as a female taken yet. There seems to be an unspoken rule among all the guards that they can’t take your virginity.
+::Time passes...
+Each day is the same, but a little different. Each morning you help prepare breakfast in the kitchen, then you leave with one of the maids to deliver the food. Every single time you return with the taste of cum on your mouth, and a new chore of washing your uniform later in the evening. You’ve gotten used to not having any control over your actions; having huge tits is a constant annoyance, but they’ve also started to feel like //your// tits. The guards no longer have to tell you to behave like a girly-girl slut in their company, instead as soon as you walk into their break room you actively play the part with frightening ease.
+
+It's exactly two weeks to the day of your failed attempt at stealing the amulet from the tower. You’re now resting in bed when a guard arrives at the door and enters.
+
+“Come with me, Cat.” Says the guard, ‘Cat’ being the name everyone calls you by now. You do as you’re told. You get up and leave the room with the guard, and he leads the way across the tower. This isn’t an unusual occurrence, since you’re used to being taken in the late hours of the night and sent to a guard’s sleeping quarters to be used and fucked and then dismissed.
 
 The guard leads you across the tower, and you immediately figure out where he is leading you.
 
@@ -423,13 +456,11 @@ You enter Sedina’s throne-room chamber. Like before it is darkly lit, but unli
 
 The door you entered in from swishes quietly shut behind you before giving a hard click that makes you flinch.
 
-It’s now you feel a large pair of feminine hands resting on your shoulders. The pale skin is
-
-unmistakably Sedina’s. You can feel the huge weight and warmth of her incredible body pressing against your back now as she towers over you from behind.
+It’s now you feel a large pair of feminine hands resting on your shoulders. The pale skin is unmistakably Sedina’s. You can feel the huge weight and warmth of her incredible body pressing against your back now as she towers over you from behind.
 
 “Hello, Cat.” Says Sedina, her voice deep and soft as velvet, “Have you enjoyed your stay in my tower?”
 
-“No.” you say, discovering that you are not at this moment being compelled to behave like a girly-girl in Sedina’s presence.
+“No.” you say, discovering that you are not at this moment being compelled to behave differently in Sedina’s presence.
 
 “That’s a shame.” Says Sedina, casually. All you can see are her arms reaching down, and her hands finding your tits.
 
@@ -445,7 +476,7 @@ You feel Sedina’s hand at the top of your head. She runs her fingers through y
 
 You slap a hand over your mouth as you hear Sedina lightly chuckle.
 
-“What do you want.” You say, crossly.
+“What do you want.” You say, cross.
 
 “Company.” Says Sedina, “It can be awfully lonely in this chamber sometimes.”
 
@@ -457,7 +488,7 @@ Sedina cocks her head to one side.
 
 “Perhaps.” She says, “In truth I’ve always had other plans for you. But I have been busy these past two weeks with important matters that demand a sex sorceress’s attention. I thought you would appreciate having something useful to do instead of being stuck in a drab prison cell.”
 
-“I would have preferred the prison cell.” You say. It’s as you’re looking up at Sedina, feeling the huge weight of your tits on your chest that you remember that she was the one who increased their size with her magic.
+“I would have preferred the prison cell.” You say bluntly. It’s as you’re looking up at Sedina, feeling the huge weight of your tits on your chest that you remember that she was the one who increased their size with her magic.
 
 “I don’t want these breasts anymore.” You say, “I’m sick of them.”
 
@@ -479,13 +510,13 @@ You let out a tiny grunt from the effort it takes to bite your tongue.
 
 “The collar forced me to behave like that.” You say as calmly as you can.
 
-Sedina shakes her head like you are a mere child unable to understand basic concepts. “At first, yes.” She says, “”But the collar hasn’t attempted to influence your behaviour for the last few days. When you acted like a good slut you did so of your own accord. When you looked like you were enjoying drinking the cum of my guards, it was because you were. You are a slut, and you have greatly enjoyed having an excuse to behave like one. Here.”
+Sedina shakes her head like you are a mere child unable to understand basic concepts. “At first, yes.” She says, “But the collar's magic has weakened the past few days. When you acted like a good slut you did so of your own accord. When you looked like you were enjoying drinking the cum of my guards, it was because you were. You are a slut, and you have greatly enjoyed having an excuse to behave like one. Here.”
 
 Sedina waves her hand. The collar around your neck disappears.
 
 “There is no need for that anymore. I have already broken your male spirit. Now I can enjoy taking on a hands on approach.”
 
-“Please.” You say, “I’m sick of being changed. I don’t want any of this.”
+“Please,” You say adamantly, “I’m sick of being changed. I don’t want any of this.”
 
 Sedina makes a tut-tut sound and waves her hand. In the next instant you feel your throat seize up. You try to ask her what she has done to you, but instead all that comes out is a cute sounding ‘meow’.
 
@@ -499,9 +530,12 @@ She lowers herself down, squatting in front of you, bringing herself eye-level w
 
 “Is there…” she says, trailing off for a moment as the tip of her right index finger begins to sparkle with emerald magic, “…anything you wish to say?”
 
-You can see this is a thinly veiled threat. Again you hold your tongue, deciding it better to be frustrated and furious than to be at the mercy of her magic. This is, you realise, an incredible opportunity to see magic up close. You still have your mind, and you no longer have the collar around your neck. What if you played along just long enough so that you could learn some magic in secret? This idea leaps into your mind, and you find yourself holding onto it, if only to have some sliver of hope in this desperately humiliating situation.
+You can see this is a thinly veiled threat. Again you hold your tongue, deciding it better to be frustrated and furious than to be at the mercy of her magic. But this, you realize, is an incredible opportunity to see magic up close. You still have your mind, and you no longer have the collar around your neck. What if you played along to see her cast her magic? Could you learn it in secret and possibly use it to escape? This idea leaps into your mind, and you find yourself holding onto it, if only to have some sliver of hope in this desperately humiliating situation.
 
 “Come, Cat.” Says Sedina, and she turns on her barefooted heel and leaves the throne-room chamber.
+
+[[Follow her]]
+::Follow her
 
 You follow her out, passing the guard who ogles your incredible new figure. It feels as if your upper body is resting atop your hugely expanded hips and ass, rather than following the conventional S-shape common to all humanoid beings.
 
@@ -509,11 +543,11 @@ It’s impossible not to rub your thighs together as you walk now, and you can f
 
 It’s not immediately clear where Sedina is leading you until you reach a large emerald green door on the first floor of the tower. It’s now you understand where she’s taking you; her private sleeping chamber. With the wave of her hand the door glows brightly, the runes worked across it lighting up. The door opens, and you follow Sedina inside.
 
-It is hard not to feel like your wish to learn about magic is not in some small way coming true.
+It feels as if your long wish to learn more about magic has in a small way come true.
 
 Sedina’s private chamber is both a private study, the shelves on the right and left side lined with books, and scrolls, and charts.
 
-There is a huge double-bed dominating the far back of the room. There must be some magic used here to make the room larger on the inside than it should.
+There is a huge double-bed dominating the far back of the room. There must be some magic used here to make the room larger on the inside than it should have been.
 
 “You.” Says Sedina, “Go lay down on the bed.”
 
@@ -527,9 +561,9 @@ Sedina pads slowly across the room then climbs onto the bed. She pulls aside the
 
 You remain quiet. Minutes pass. Your keen Cat eyes can see clearly in the dark. For a while you are able to focus your attention on the books on the shelves, the names fascinate you: Health of the Mage, Strategies of Spellcraft, Enchantments and Energies. On and on the interesting book titles go, each title leaving you salivating to read the contents.
 
-An hour passes. By this time you are certain Sedina is fast asleep. She must be confident in her powers to leave you at the foot of her bed. Your nails are sharp enough to cut a human throat if need be; you wouldn’t want to do it, but for all the things Sedina has done to you, and made you do already, you figure you could make an exception. You don’t attempt to hurt her however; assuming you could, then you would still be stuck in her tower, stuck with huge tits, and a fat ass, and a narrow waist, as a female of your species. How far could you really get?
+An hour passes. By this time you are certain Sedina is fast asleep. She must be confident in her powers to leave you at the foot of her bed. Your nails are sharp enough to cut a human throat if need be; you wouldn’t want to do it, but for all the things Sedina has done to you, and made you do already, you figure you could make an exception. You don’t attempt to hurt her however; assuming you could, then you would still be stuck in her tower, stuck with huge tits, a fat ass, and a narrow waist, as a female of your species in a human dominated town. How far could you really get?
 
-You lay on your back looking up at the chamber ceiling. There isn’t any hope of you falling asleep right now. All you can think about is playing with your pussy and getting yourself off. Just the thought of your own transformed body, your huge tits, your wide ass, your narrow waist…these things are making it impossible to just go to sleep and ignore. Being the sexual plaything of those guards has had its price. Somehow your once prudish mind has become filthy. Your body wants sexual release. All you can do as you lay in the dark is squirm, your hands rubbing the insides of your thighs. It takes all your mental concentration not to touch your pussy. You daren’t glance over at Sedina in bed. Just the look of her incredible body, her beautiful face, will surely send you over the edge and having you aggressively pleasuring yourself.
+You lay on your back looking up at the chamber ceiling. There isn’t any hope of you falling asleep right now. All you can think about is playing with your pussy and getting yourself off. Just the thought of your own transformed body, your huge tits, your wide ass, your narrow waist…these things are making it impossible to just go to sleep and ignore. Constantly being the sexual plaything of those guards has had its price. Somehow your once prudish mind has become utterly filthy. Your body wants sexual release. All you can do as you lay in the dark is squirm, your hands rubbing the insides of your thighs. It takes all your mental concentration not to touch your pussy. You daren’t glance over at Sedina in bed. Just the look of her incredible body, her beautiful face, will surely send you over the edge and having you aggressively pleasuring yourself.
 
 Your thoughts drift to a time when you had a cock, just as your fingers slip inside your wet pussy. You flinch, your thighs clamping down around your hand. You had just begun to daydream, and that momentary lapse of concentration was all you needed to absentmindedly play with your pussy. Now you were pleasuring yourself it was too late to stop. You eased your legs apart a little more, and as quietly as you can you continue to tease the sensitive part of your pussy, the little nub near the top opening. You let out a whimper, and put your hand over your mouth to stifle your moans.
 
@@ -555,6 +589,8 @@ You look at Sedina in the dark, your keen Cat eyes seeing her as clear as day. F
 
 It is a long night. You toss and turn and your fingers run along the chastity cage over and over trying to find a way around it. There isn’t any. Come the early hours of the morning you finally stop prying the cage and fall asleep.
 
+[[Get some sleep]]
+::Get some sleep
 Sedina is out of bed by the time you wake up. It doesn’t feel like you have slept for very long. You open your eyes and can see Sedina standing naked several paces away from you. Her incredible tall body, her pale skin, her generous hips and long slender legs are right there for you to see. Again arousal rises across your body and a burgeoning heat forms in your crotch. You reach down, feeling the chastity belt Sedina placed on your with her magic last night.
 
 “From a respectable Catboy thief to a meow-ing kitty-cat. How amusing.”
@@ -567,7 +603,7 @@ Sedina looks over her shoulder at you and smiles. She’s so beautiful and sexy,
 
 “Meow!”
 
-“Yes, yes. You’re upset. But you are serving a purpose. You are more than just my pet.”
+“Yes, yes. You’re upset. But you are serving me a purpose. You are more than just my pet.”
 
 Sedina, still fully naked, comes and sits on the bed. She towers over you, her incredible bust and flawless body so close to you now. You look up at her with wide, searching eyes. It’s hard not to feel like a dumb animal in her presence.
 
@@ -577,7 +613,7 @@ You vaguely remembering hearing of witches having such things, but no more than 
 
 Sedina places her hand on your head and strokes you behind the ear. This sends your body into sexual overdrive yet again. You let out a loud purring noise as you need your head against her fingers.
 
-“A familiar is a being that aids a sorcerer in her magic. As I am a sex sorceress, I gain a good portion of my power from the sexual frustration of others. You don’t think my body is an accident, do you? I have crafted it to please the eyes of men to draw power from their lust. You, who were once male, still have a male’s mind, despite the improvements I have made to your body, and what the amulet has made you. I tell you this so you understand that you will not have sexual release unless I allow it.”
+“A familiar is a being that aids a sorcerer in her magic. As I am a sex sorceress, much of my power is gathered from the sexual frustration of others. You don’t think my body is an accident, do you? I have crafted it to please the eyes of men to draw from their lust. You, who were once male, still have a male’s mind, despite the improvements I have made to your body, and what the amulet has made you. I tell you this so you understand that you will not have sexual release unless I allow it.”
 
 You let out a hiss that takes you by surprise. This is not the first time your race has been treated this way by humans. Humans over the many millennia have attempted to create pets out of the Cat-People, something your species has resisted successfully. If it were not for the millennia of effort exhibited by your race, then you would not even be given a rank of a lesser rank in society’s caste. One day your race collectively hopes to rise to the same standing as humans, and other sentient species. But now, in this moment, Sedina clearly have no issue stripping you down to the level of a beast.
 
@@ -595,9 +631,9 @@ Sedina snaps her fingers, and you feel an incredible pressure all over your body
 
 “There. Now you’re the size of a mere alley cat. It should help you know your place better.”
 
-You give another hiss. Looking down you can see the chastity belt has shrunk with your size, but not the amulet, which hangs heavy the size of a watermelon on your chest, which is already weighed down by the huge tits Sedina has cursed you with.
+You give another hiss. Looking down you can see the chastity belt has shrunk with your size, but not the amulet, which hangs heavy like a watermelon on your chest, which is already weighed down by the huge tits Sedina has cursed you with. You aren't even half her height anymore.
 
-“I can transform you easily because your sexual frustration is the very thing which allows me to have control over your form.”
+“Your sexual frustration is the very thing which allows me to have such easy control over your form.”
 
 “Meow!”
 
@@ -614,6 +650,9 @@ Sedina snaps her fingers, and the next thing you know the same chain that holds 
 She begins to strut away from the bed. After two full strides the chain won’t extend any further. You feel a sudden tension at your neck and you’re pulled from the bed onto the floor. You land nimbly, but not nimbly enough as you are again dragged across the floor. The full weight of your smaller body is inconsequential to Sedina’s powerful strides. You slide across the floor as she takes another stride. Whilst the chain isn’t choking you, it is certainly not a pleasant feeling. You quickly get to your feet and hurry behind her. It is easy to keep pace with Sedina, even as she walks at full stride, but you are now very careful not to fall behind.
 
 Sedina leads the way out of the chamber out to the hallway. Guards on their rounds put their backs to the wall and bow their heads respectfully to the sex sorceress. And when they see you they either smile mockingly down at you and what you’ve become, or they simply keep their stoic gaze.
+
+[[Continue walking]]
+::Continue walking
 
 After several minutes of walking Sedina beyond a sliding door and out to a pleasant garden area. The weather is warm, and pleasant, and ahead you can see a beautiful woman with tan skin and a petite body. She is sat is dressed scantily in a similar dress to Sedina, instead of emerald green however her dress is a shade of pink lined with many silver sparkles.
 
@@ -647,7 +686,7 @@ Sedina put one of her long pale legs over the other, seemingly unconcerned.
 
 “Meow!”
 
-“Oh I see what you mean now.” Says Tess, “Males are always feisty when they’re transformed.”
+“Oh I see what you mean now.” Says Tess, “Males are always the feisty ones.”
 
 “After we’ve talked business we could play with him a little if you like?” says Sedina.
 
@@ -665,31 +704,30 @@ A bowl of creamy milk is brought to you by the maid. At first you try to ignore 
 
 “Oh please.” Says Sedina, “Rich men pay me small fortunes to do this to them. This little former Catboy is loving every second of it. He just doesn’t want to accept his new station in life. She’ll learn soon enough.”
 
+[[Wait for Sedina]]
+::Wait for Sedina
+
 Sedina and Tess finish their drinks, and you’re forced to follow in Sedina’s wake like before thanks to the chain around your neck. You’re led across the tower and you find yourself back in Sedina’s private chamber. With the snap of her fingers the chain connecting you to her foot vanishes, leaving you with just amulet hanging from your neck.
 
-Tess hurries over to the bed and sits down. Sedina looks down at you and gestures with her head for you to go over toward the bed.
-
-You shake your head, refusing, your neck hurting a little from craning up to look at the sex sorceress.
+Tess hurries over to the bed and sits down. Sedina looks down at you and gestures with her head for you to go over toward the bed. Your neck hurts a little from craning up to look at the sex sorceress.
 
 “Go now or I’ll have to punish you again.”
 
-You consider being defiant despite this threat, but the fear of what she might do to you prompts you to walk slowly toward the King-Sized bed. When you reach the edge, before you can muster yourself to leap up with your cat-agility, Tess grabs you by your right arm and yanks you up onto the bed in one big motion.
+You consider being defiant despite this threat, but the fear of what she might do to you prompts you to walk slowly toward the King-sized bed. When you reach the edge, before you can muster yourself to leap up with your cat-agility, Tess grabs you by your right arm and yanks you up onto the bed in one big motion.
 
 “Have fun you two.” Says Sedina, “I’ll check in later. How long do you think it will take you?”
 
-Look flinch. What does Sedina mean by this?
-
 “Oh, about an hour I would guess. She looks like she’ll break rather easily.”
 
-“Meow?”
+“Meow?” you say, worried.
 
 “Oh yes.” Says Tess, “My little cutsie-cat. I’m going to break what little stubbornness you have left! Yes I am! Yes I am!” She’s talking down at you as if you were just a dumb animal, her hand pinching your cheek. It takes all your willpower not to bite her.
 
 “Oh you are a delight, sister.” Says Sedina. She makes her leave, the door to chamber closing with a heavy thud in her wake.
 
-Now you’re alone with Tess things feel suddenly intimate. Here you are, a catboy-turned-catgirl reduced to a feral Cat’s size, albeit with your body still in the same shape and proportions as you were before Sedina used her magic to shrink you down. You have huge tits, a narrow waist, thick thighs, and a large round butt. Not to mention you can’t even say anything more than ‘Meow’.
+Now you’re alone with Tess things feel suddenly intimate. Here you are, a catboy-turned-catgirl reduced to a feral Cat’s size, albeit with your body still in the same shape as you were before Sedina used her magic to shrink you down. Your body is still of undeniably feminine proportions. Not to mention you can’t even say anything more than ‘Meow’.
 
-Tess looks gorgeous as she is knelt before you. Her tan skin looks a shade darker in the dim chamber torchlight. Up close you can see her skin is flawless, and her face is just as beautiful as Sedina’s, although much more reminiscent of a pixie, which you happened to have seen captured in jars on the black market some time ago.
+Tess looks gorgeous as she is knelt before you. Her tan skin looks a shade darker in the dim chamber torchlight. Up close you can see her skin is flawless, and her face is just as beautiful as Sedina’s, although much more reminiscent of a pixie, which you have seen before captured in jars on the black market some time ago.
 
 “Now.” Says Tess, “First I’ll explain to you what you will become.”
 
@@ -711,31 +749,32 @@ Tess snaps her fingers. Your throat tingles.
 
 “…y-yes.” You say, testing your voice.
 
-“You see.” Says Tess, “I could control your mind and make you obedient that way, but really this is a sub-par method for a sorceress. Instead, I want you to agree to be my eternal servant for as long as you live. In return you get to be my one and only familiar, and to have all the duties and privileges hitherto.”
+“You see.” Says Tess, “I could control your mind and make you obedient, but really that would be a sub-par method for a sorceress. Instead, I want you to agree to be my willing and eternal servant for as long as you live. In return you get to be my one and only familiar, and to have all the duties and privileges hitherto.”
 
-“I want to be a male again.” You say, “I want to be a normal size. And I want to leave this tower so I can go back to my old life.”
+“I can't. I want to be a male again.” You say, predictably. “I want to be normal sized. And I want to leave this tower so I can go back to my old life.”
 
 Tess cocks her head, looking at you as if you were a child that didn’t understand the basic realities of life.
 
-“Your old life became forfeit when you tried to steal from my sister. You’re lucky you’re not ribbetting as a toad in her garden. Since I asked nicely, and you declined my offer. Then I will have to do my best to be more convincing.”
+“Your old life does not matter anymore. Honestly, you’re lucky you’re not ribbetting as a toad in her garden. Since I asked nicely, and you declined my offer, then I will have to do my best to be more convincing.”
 
 You wonder what Tess means by this, surely it mustn’t be anything good.
 
-“My sister said she’ll be back in an hour. This means we need more time. Luckily I’m a Time Sorceress so we’ll not be shorthanded on that front.”
+“My sister said she’ll be back in an hour. This means we need more time. Luckily, I am a Time Sorceress, so we’ll not be shorthanded on that front.”
+
+[[Time sorceress...?]]
+::Time sorceress...?
 
 Tess snaps her fingers and a large hourglass appears beside her on the bed. You can see the grains of sand within falling. Tess points to the hourglass with her index finger and says, “Stop!”
 
-The grains stop falling.
+The grains stop falling, mid-air.
 
-“Now we have all the time in the world.” Says Tess, “Whether it will take days, or weeks, months, or years to break you to my will it doesn’t matter. You will experience every moment but it will be no time at all for me. Now let’s begin.”
+“Now, we have all the time in the world.” Says Tess, “Whether it will take days, weeks, months, or years to break you to my will, it doesn’t matter. You will experience every moment here until you choose to serve me. I want you to extend your hand to me when I saw paw.” Says Tess. “Paw.”
 
-“I want you to extend your hand to me when I saw paw.” Says Tess. “Paw.”
-
-“No.” You say. Standing fully upright on the bed, keeping your hands to your sides.
+“No...” You say. Standing fully upright on the bed, keeping your hands to your sides.
 
 “Fine.” Says Tess, “I’ll wait until you’re ready to give me your paw.”
 
-You wait for some magical trouble to commence thanks to your disobedience. Nothing of the sort happens however. Tess looks at you, smiling cutely and raising her eyebrows for a moment.
+You wait for some magical trouble to commence thanks to your disobedience, but nothing of the sort happens. Tess looks at you, smiling cutely and raising her eyebrows for a moment.
 
 Slowly you ease yourself off the bed and then hurry over to the door which leads out of the chamber. Your fat behind jostles along with your heavy tits as you cross the chamber and reach the door. When you press your body against the door however you find it isn’t budging in the slightest.
 
@@ -745,23 +784,23 @@ Tess reclines on the bed, her bare feet rubbing against the covers as she reclin
 
 You spend the next five minutes trying to get the door open. As expected you make no progress. During this time Tess simply watches you. The hourglass on the bed hasn’t budged a single grain.
 
-Perhaps, you think, there might be some other means of escape inside the room. You explore the edges of the room, opening drawers, and looking through chests. You find a myriad of interesting things, from sexy outfits Sedina presumably wears, to old artefacts and spell books that won’t open for you. An hour passes by the time you have fully scoured the chamber for a means of escape, finding none.
+Perhaps, you think, there might be some other means of escape inside the room. You explore the edges of the room, opening drawers, and looking through chests. You find a myriad of interesting things, from sexy outfits Sedina presumably wears, to old artifacts and spell books that won’t open for you. It feels like an hour has passed by the time you have fully scoured the chamber for a means of escape, finding none.
 
 “Ready to submit?” says Tess, now with one leg crossed over the other, her foot bobbing from side to side.
 
-You make a half-hearted attempt to scour over the chamber a second time, if only to have something to do. Half an hour later you give up, your mind feeling numb from the continual fruitless effort.
+You make a half-hearted attempt to search the chamber a second time, if only to have something to do. Half an hour later you give up, your mind feeling dull from the continual fruitless effort.
 
-You sit on the floor, crossing your arms and legs. Time continues to pass. After another thirty minutes you look to Tess who seems completely at ease. You wonder how it is she isn’t bored. She’s fully awake, and you’ve noticed her occasionally looking your way, but beyond this she hasn’t done much of anything.
+You sit on the floor, crossing your arms and legs. Time continues to pass. After another thirty minutes you look to Tess who seems completely at ease, unmoving. You wonder how it is she isn’t bored. She’s fully awake, and you’ve noticed her occasionally looking your way, but beyond this she hasn’t done much of anything.
 
 Another hour passes. By this time you’re seriously bored. Your butt, as thick as it is, has started to feel numb from sitting down for so long. You stand up.
 
 “Aren’t you bored?” You ask from across the room.
 
-“I’m a Time Sorceress.” Says Tess, “I can’t feel boredom, because my mind isn’t effected by the passing of time like your average mortal’s. For you it has been…two and a half hours. For me it’s been a matter of moments. Why, feeling restless?”
+“I’m a Time Sorceress.” Says Tess, “I can’t feel boredom, because my mind isn’t affected by the passing of time like your average mortal’s. For you it has been… two and a half hours. For me, only a matter of moments. Why, feeling restless?”
 
 “Please.” You say, “I just want to be let free.”
 
-“And I told you that is no longer an option. You trespassed, you stole, you got caught. Man up and face the consequences, kitty-cat.”
+“And I told you that is no longer an option for you.”
 
 You sigh. More time passes. You wander about the chamber for another half hour before you begin thumping your forehead against the dresser drawer, if only to invite a new sensation to break the monotony of chamber.
 
@@ -769,7 +808,7 @@ You sigh. More time passes. You wander about the chamber for another half hour b
 
 “Yes.” You say, thumping your head again. It’s starting to ache.
 
-“Well, if you’re not going to obey me. Why don’t we at least play a game to kill some time?”
+“Well, if you’re not going to obey me yet. Why don’t we at least play a game to kill some time?”
 
 Were you not currently bored out of your mind you would reject the offer immediately. However you stop thumping your head and look over at her.
 
@@ -853,69 +892,74 @@ By the end of the second hour however this too becomes a chore.
 
 You gulp a mouthful of saliva. Is that all it would take to put your hands on her breasts and…elsewhere? Simply giving her your paw? It seems a frightfully easy thing to do now. You shake your head. No. You will remain defiant. You will not do as she asks. You must stay firm in your mind on your goal, and that is…what? Staying in this frozen state of time until…you inevitably give up? With Tess’s feet before you, and the chess set ready to be played on your right, there is always evidence that your willpower is crumbling. What’s worse, you’re finding you actually quite like Tess and her approach to taking control of you. She isn’t twisting your form with magic like Sedina. She is merely trapping you… and waiting patiently.
 
-“Can you really not feel time passing? Do you not feel the bored at all?” You ask.
+“Can you really not feel time passing? Do you not feel bored at all?” You ask.
 
-“Not at all. I’m incapable of feeling it. It is the first thing a Time Sorceress must learn if she is to meddle with Time Magic.”
+“Not at all. It is the first thing a Time Sorceress must learn to mitigate if she is to meddle with Time Magic.”
 
 The weight of inevitability falls heavily on your shoulders. It is already a forgone conclusion that your willpower will break. She knows it, and you know it.
 
-More games of chess are played. She continues to win every game with ease. More hours have passed. You’re finding it hard to keep track. Without fatigue you have little ability to judge how much time is passing. All this time has given you time to think about what life as a familiar would be like. You would be protected, and around a powerful magic user. You would be trapped in this body…a life of fat tits and wide hips…but would that be worse than spending nights alone atop morgue buildings?
+More games of chess are played. She continues to win every game with ease. More hours have passed. You’re finding it hard to keep track. Without fatigue you have little ability to judge how much time is passing. All this time has given you time to think about what life as a familiar would be like. You would be protected, and around a powerful magic user. You would be trapped in this body doing who knows what... but would that be worse than spending nights alone atop morgue buildings?
 
 Finally after finishing another game of chess you say, “Okay. I submit.”
 
-“That was fast.” Says Tess, teasingly. “Are you sure you wouldn’t like a few more days to think it over?”
+“That was fast.” Says Tess, teasingly. “Are you sure you wouldn’t like a few more days, maybe weeks to think it over?”
 
-“Please. No more.”
+“I can't win.”
 
 “Very well.”
 
-You hold out your hand to place on hers.
+[[Give her your paw]]
+::Give her your paw
+
+You hold out your hand to place on hers, sighing.
 
 “Oh no.” says Tess, “It is going to take more than simply giving me your paw to become my familiar. You have been quite defiant, so I need to be sure you are willing to be the kind of familiar I require before I give you that honour.”
 
-You wince. You’ve given up and she wants more from you? As beautiful as she is, now you can see the hint of mischievous malice in her amber eyes. A slight touch of madness brought about by her manipulation of time?
+You wince. You’ve already given up and she wants more from you? As beautiful as she is, now you can see the hint of mischievous malice in her amber eyes. A slight touch of madness brought about by her manipulation of time?
 
 “W-what do I have to do?” You ask.
 
 Tess cocks her head to one side and smiles mischievously.
 
-“You must give up is left of your manly spirit. I want a female familiar through-and-through. Not one that is conflicted about her sex. How can you be truly obedient to me, if you are always at odds with yourself? I could have you renounce your womanhood, and change you back to being a male of your species; but I simply having a woman’s company…when I’m not enjoying a full grown man’s of course.”
+“You must give up what's left of your male spirit. I want a female familiar through-and-through. Not one that is conflicted about her sex. How can you be truly obedient to me, if you are always at odds with yourself? I could have you renounce your womanhood, and change you back to being a male of your species; but I simply enjoy having a woman’s company… when I’m not with a full grown man’s of course.”
 
-Tess winks at you as she sees your shock. Your chest rises and falls as panic sets in. Now you’re truly caught between a rock and a hard place. Back to endless boredom, or lose what little masculinity you have left? Is your masculine self even something you can think away?
+Tess winks at you as she sees your shock. Your chest rises and falls as panic sets in. Now you’re truly caught between a rock and a hard place. Lose what little masculinity you have left? What does that even mean? Is your masculine self even something you can think away?
 
 “Lucky for you.” Says Tess, “I know a specific enchantment which will aid you in becoming your best self. First, let’s remove this trinket.”
 
 Tess takes hold of the amulet around your neck and tugs on it, and the chain gives as if it were that simply to take the amulet off all along. She chucks it aside, letting the valuable stone fall to the chamber floor with a hard clacking sound.
 
-“Now repeat after me: ‘I am a female. I love being a female. I belong to Tess.’”
+“Now repeat after me: ‘I am a girl. I love being female. I belong to Tess.’”
 
-This bitch, you think. Your heart thumps your chest. Your fur ripples. Your whole body feels flush. You’re also feeling strangely turned on by her ultimatum, not least because you know that you’re about to give in.
+//This bitch//, you think. Your heart thumps your chest. Your fur ripples. Your whole body feels flush. You’re also feeling strangely turned on by her ultimatum, not least because you know that you’re giving in.
 
-“I-I am f-female.” You say, finding it hard to make yourself say the words, “I-I l-love being f-female. I b-belong to T-Tess.”
+[[Say the words]]
+::Say the words
+“I-I am a g-girl.” You say, still finding it embarrassing to make yourself say the words, “I-I l-love being female. I belong to Tess...”
 
-By saying this you can feel something changing inside you. There’s magic at work here, some hidden enchantment of some kind egged on by the words you’re saying, as if you were casting a spell over yourself.
+By saying this you can feel something changing inside you. There’s magic at work here, some hidden enchantment of some kind egged on by the words you’re saying, as if the words you're speaking are casting a spell over yourself.
 
 “Good.” Says Tess, happily. She ruffles your hair. “Now keep saying it until you believe it. I’ll know the difference.”
 
-“I am female. I love being female. I belong to Tess.”
+“I am a girl. I love being female. I belong to Tess.”
 
 “Again!”
 
-“I am female. I love being female. I belong to Tess.”
+“I am a girl. I love being female. I belong to Tess.”
 
 “Again!”
 
-“I am female. I love being female. I belong to Tess.”
+“I am a girl. I love being female. I belong to Tess.”
 
 “Lay down and spread your legs and play with your pussy, since you love being female so much. Keep saying the words.”
 
-You do as you’re told. You sit and lay back, spreading your legs apart. You fingers finding your already hot and wet pussy. You play with your clit, rubbing it in a circular motion, your body responding as a moan escapes your lips.
+You do as you’re told, suddenly hot and horny. You sit and lay back, spreading your legs apart. You fingers finding your already hot and wet pussy. You play with your clit, rubbing it in a circular motion, your body responding as a moan escapes your lips.
 
-“I am female. I love being female. I belong to Tess.”
+“I am a girl. I love being female. I belong to Tess.”
 
 “Say it like you mean it!”
 
-“I am female! I love being female! I b-belong to T-Tess!”
+“I am a girl! I love being female! I b-belong to T-Tess!”
 
 She makes you say it over and over until you’re shouting each word whilst you play with your pussy, bringing yourself closer to orgasm with each passing moment.
 
@@ -927,38 +971,45 @@ Tess sits and watches you lazily.
 
 “Good. Say it again!”
 
-“I am female! I love being female! I belong to Tess!”
+“I am a girl! I love being female! I belong to Tess!”
 
-You orgasm. You’ve never felt pleasure like it. Your whole body is caught in a state of pleasure so intense it is almost painful. All you can think about is the pleasure you’re experiencing. As good as it is, you want it to come to an end. Pleasure this intense shouldn’t last more than a few moments before release.
+You orgasm. You’ve never felt pleasure like it. Your whole body is caught in a state of bliss so intense it is almost painful. All you can think about is the sensation all over your body that you’re experiencing, a warm burst of sexual release and freedom. You shake and twitch as you pant, expecting the climax to soon be over.
 
-It’s now however you see Tess’s hand hovering over our body, and a swirling pink energy in her palm. This energy washes over you as the orgasm continues to push your thoughts to the back of your mind, making you as simple-minded as a feral Cat, your eyes going askew, your mouth opening and your tongue hanging out, drool dripping from it.
+It’s now however you see Tess’s hand hovering over your body, and a swirling pink energy in her palm. This energy washes over you as the orgasm continues to push any rational thoughts to the back of your mind, making you as simple-minded as a feral cat, your eyes going askew, your mouth opening and your tongue hanging out, drool dripping from it.
 
-Tess moves her hand away, but the orgasm continues on and on, far longer than any orgasm should. The pleasure washes over you again and again in waves, threatening to crush your mind in the deep abyss of sensation.
+Tess moves her hand away, but the orgasm rises again, continuing far longer than any orgasm should. The pleasure washes over you again and again in waves, threatening to crush your mind in the deep abyss of sensation. You can't stop your fingers from rubbing yourself as you cum over and over again.
 
 “C-can’t s-stop!” You stammer, “H-help!”
 
-“This is intentional, pet.” Says Tess, “I have made your orgasm endless. It won’t stop until I want it to stop.”
+“This is intentional, pet.” Says Tess, “I have made your orgasm crescendo endlessly.”
 
-Tess wags her finger and your mouth moves against your will. The same phrase escapes your lips over and over: “I am female! I love being female! I belong to Tess!”
+Tess wags her finger and your mouth moves autonomously. The same phrase escapes your lips over and over: “I am a girl! I love being female! I belong to Tess!”
 
-Tess leaves you like this for not just hours, but days. You don’t tire, your throat doesn’t get sore, and neither does your pussy. But your mind. It is your mind that breaks to her will. After several days of repeating those words over and over whilst your mind is melting from the orgasm, somewhere among all that pain and repetition what last vestige of maleness is left in your disappears. You’re not aware of the moment Tess frees you from her time-warping magic. Instead you wake slowly finding yourself on Sedina’s bed, with both sorceresses looking down at you. Tess to the left, and her much taller sister to the right.
+[[Cum]]
+::Cum
+<<silently>>
+  <<set $name = "Kitty">>
+  <<set $description = "a beautiful snow-white catgirl">>
+<</silently>>Tess leaves you like this for not just hours, but days. In stasis, you don’t tire, your throat doesn’t get sore, and neither does your pussy. But your mind inevitably breaks to her will. After several days of repeating those words over and over continuously masturbating, what last stubborn vestige of maleness is left in you disappears, and is replaced with the wonderful experience of indulging in feminine pleasures. You’re barely aware of the moment Tess frees you from her time-warping magic, the pleasure still lingering long past. By the time you are barely functional, you find yourself on Sedina’s bed, with both sorceresses looking down at you. Tess to the left, and her much taller sister to the right.
 
-In a daze you look over yourself, and see that your fur has been made snow-white, and there is now a pink ribbon in your hair.
+In a daze, you look over yourself, and see that your fur has been made snow-white, and there is now a pink ribbon in your hair. You feel a new, bubbling sense of joy with your naturally cute appearance, one that you couldn't have understood in your past life, as your hand raises up to stroke the ribbon delicately.
 
-“It has been so nice seeing you, sister.” Says Tess, giving Sedina a firm hug.
+“It has been so nice seeing you, sister.” Says Tess, giving Sedina a firm hug. “And thank you for the lovely gift.”
 
-“Yes.” Says Sedina, “Be sure not to wait ten years before visiting again.”
+“Yes” Says Sedina, “Be sure not to wait ten years before visiting again.”
 
-“Oh you know I lose track of time sometimes.”
+“Oh you know I lose track of time sometimes.” They both laugh.
 
-Their attention fixes on you. “You’ve done a wonderful job breaking her in. Are you excited to go with your new master, Kitty-cat?”
+Their gazes fix on you. “And you’ve done a wonderful job breaking her in. Are you excited to be going with your new master, Kitty-cat?” Sedina coos at you.
 
-“I am female. I love being female. I belong to Tess.” You say. The Sorceress’s girl.
+“I am a girl. I love being female. I belong to Tess.” You say automatically, still lightheaded, but pleased to have their attention.
 
 “I’ll have to remedy the extent of the control.” Says Tess, “She’ll come out of her shell eventually.”
 
-Tess waves a hand, and a blazing pink circle of light fills the space as a disc floating in the air before her.
+Tess waves a hand, and a blazing pink circle of light fills the space as an ethereal disc floats in the air before her, opening up.
 
-“Come here, Kitty.” Says Tess. You do as you’re told, bounding off the bed and leaping into Tess’s arms.
+“Come here, Kitty.” Says Tess. You bound off the bed, happy to finally be leaping into your owner's arms.
 
 Tess says one final goodbye to her sister, and leaves with you, stepping into the pink veil.
+
+END
